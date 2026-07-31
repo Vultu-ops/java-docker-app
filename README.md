@@ -1,0 +1,1 @@
+Simple java calculator app for docker containerization.
